@@ -1,14 +1,7 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=w3bdesign_laravel-vue&metric=alert_status)](https://sonarcloud.io/dashboard?id=w3bdesign_laravel-vue)
-
 # Laravel eCommerce
 
 Ecommerce site with Laravel 9, Vue 3 and Stripe.
 
-### Screenshot:
-
- <br /> 
- <img src="https://user-images.githubusercontent.com/45217974/108638044-9b523980-748d-11eb-9a24-0b58baffecc8.png" alt="Project screenshot" /> 
- <br />
  
  ### Stripe screenshot: 
  <br /> 

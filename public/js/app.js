@@ -22421,7 +22421,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "render": () => (/* binding */ render)
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
-/* harmony import */ var _img_svg_Logo_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../img/svg/Logo.svg */ "./resources/img/svg/Logo.svg");
+/* harmony import */ var _img_jpg_Logo_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../img/jpg/Logo.png */ "./resources/img/jpg/Logo.png");
 /* harmony import */ var _img_svg_MobileLogo_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../img/svg/MobileLogo.svg */ "./resources/img/svg/MobileLogo.svg");
 
 
@@ -22447,7 +22447,7 @@ var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
     alt: "Logo",
     "class": "h-20 lg:h-24",
     "aria-label": "Nettbutikk logo",
-    src: _img_svg_Logo_svg__WEBPACK_IMPORTED_MODULE_1__["default"]
+    src: _img_jpg_Logo_png__WEBPACK_IMPORTED_MODULE_1__["default"]
   }, null, -1 /* HOISTED */);
 });
 var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
@@ -25551,6 +25551,21 @@ module.exports = function (cssWithMappingToString) {
 
 /***/ }),
 
+/***/ "./resources/img/jpg/Logo.png":
+/*!************************************!*\
+  !*** ./resources/img/jpg/Logo.png ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/Logo.png?7be8cb0241c96811ff2485c4861c38fe");
+
+/***/ }),
+
 /***/ "./resources/img/svg/Cart.svg":
 /*!************************************!*\
   !*** ./resources/img/svg/Cart.svg ***!
@@ -25563,21 +25578,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/Cart.svg?4c5936120c756fb8cbca398c6d542bb3");
-
-/***/ }),
-
-/***/ "./resources/img/svg/Logo.svg":
-/*!************************************!*\
-  !*** ./resources/img/svg/Logo.svg ***!
-  \************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/Logo.svg?3e6427f5344cbd2d3346b19366ec5fa5");
 
 /***/ }),
 
