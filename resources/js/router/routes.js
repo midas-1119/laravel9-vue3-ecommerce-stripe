@@ -13,7 +13,7 @@ const routes = [
     { path: "/products", component: Products },
     {
         name: "single.product",
-        path: "/product/:slug",
+        path: "/product/:slug/:product",
         component: SingleProduct,
     },
     { path: "/checkout", component: Checkout },

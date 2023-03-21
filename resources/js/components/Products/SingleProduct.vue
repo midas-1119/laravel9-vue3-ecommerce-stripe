@@ -52,5 +52,6 @@ import { formatPrice } from "../../utils/functions";
 const route = useRoute();
 const store = useCart();
 
+console.log(route.params)
 const product = JSON.parse(route.params.product);
 </script>
